@@ -21,6 +21,11 @@ pnpm i @phosphor-icons/react
 
 This will install the necessary dependencies for a seamless local experience.
 
+### start localhost project 
+```bash
+pnpm run dev
+```
+
 ## Project Link
 
 Visit the deployed project [here](https://preserve-environment.vercel.app/) and immerse yourself in the beauty of preserving our precious environment. Let's make a positive impact together! 🌱
