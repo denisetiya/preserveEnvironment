@@ -43,7 +43,7 @@ Proyek ini, dirancang dengan teliti selama dua jam, didukung oleh Next.js - sebu
 
 ## Melihat Proyek
 
-Untuk mengalami keindahan penuh dari proyek ini secara online, pastikan Anda memiliki koneksi internet yang stabil. Halaman landing yang memukau secara visual ini bergantung pada pengunduhan gambar dan animasi, dan koneksi yang kuat memastikan pengalaman yang optimal. Namun, jika Anda lebih suka menjelajahnya secara lokal, ikuti langkah-langkah sederhana berikut:
+Untuk mengalami keindahan penuh dari proyek ini secara online, pastikan Anda memiliki koneksi internet yang stabil. Halaman landing page ini bergantung pada pengunduhan gambar dan animasi, dan koneksi yang kuat. Untuk memastikan pengalaman yang optimal. Namun, jika Anda lebih suka menjelajahnya secara lokal, ikuti langkah-langkah sederhana berikut:
 
 ### Pengaturan Lokal
 
