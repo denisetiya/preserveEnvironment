@@ -4,7 +4,7 @@ Welcome to my GitHub repository dedicated to preserving the environment! 🌍
 
 ## Project Overview
 
-This project, crafted with care over two productive hours, is powered by Next.js – a framework that enables seamless and efficient web development.
+This project, crafted with care over two hours, is powered by Next.js – a framework that enables seamless and efficient web development.
 
 ## Viewing the Project
 
