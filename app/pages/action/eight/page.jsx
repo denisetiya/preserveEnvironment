@@ -60,7 +60,7 @@ function page() {
           </h1>
             <p>
               Mari Bersama-sama menjaga alam ini, untuk menjaga keberlanjutan lingkungan.
-              kami kan selalu menunggu aksi mu sekecil apapun itu untuk alam
+              kami kan selalu menunggu aksi mu, sekecil apapun itu... untuk alam🌱
             </p>
         </motion.div>
         <motion.div
