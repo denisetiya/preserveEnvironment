@@ -39,7 +39,7 @@ export default function Home() {
           animate={{ x: pxmin }}
           transition={{ duration: 1 }}
         className="text-3xl font-bold w-64">
-          <TypingEffect text="Tidakan Kecilmu berpengaruh besar bagi Alam" />
+          <TypingEffect text="Tindakan Kecilmu berpengaruh besar bagi Alam" />
         </motion.div>
 
         <motion.div
